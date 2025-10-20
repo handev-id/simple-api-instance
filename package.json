@@ -1,6 +1,6 @@
 {
   "name": "@handev-id/simple-api-instance",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "CLI tool to generate API Instance folder structure with axios service",
   "main": "src/generate.js",
   "types": "src/index.d.ts",
