@@ -16,7 +16,7 @@ function ensureAxiosInstalled() {
 
 export function generateApiStructure() {
   const root = process.cwd();
-  const apiDir = path.join(root, "api");
+  const apiDir = path.join(`${root}/src`, "api");
 
   ensureAxiosInstalled();
 
